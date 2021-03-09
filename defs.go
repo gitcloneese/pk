@@ -1,6 +1,6 @@
 package pk
 
 var (
-	conn int
-	chnn int
+	Conn int
+	Chnn int
 )
